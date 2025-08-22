@@ -8,14 +8,11 @@
 - 区块创建和链接
 - 工作量证明（Proof of Work）机制
 - 交易记录和验证
-- P2P网络通信基础
 
 ## 技术栈
-
 - **后端**: Node.js
 - **区块链**: 原生JavaScript实现
 - **前端**: HTML/CSS/JavaScript
-- **网络**: WebSocket（用于节点间通信）
 
 ## 项目结构
 
